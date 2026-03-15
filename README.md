@@ -214,7 +214,7 @@ This **Polymarket arbitrage trading bot** includes numerous advanced strategies 
 - Advanced trading strategies and algorithms
 - Optimized configuration profiles
 - Custom market filtering and prioritization
-- Enhanced profit calcul	tion models
+- Enhanced profit calculation models
 - Real-time WebSocket integration
 - Multi-market parallel processing
 - Comprehensive risk management features
